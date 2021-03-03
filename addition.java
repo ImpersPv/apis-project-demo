@@ -12,3 +12,7 @@
 /*
 	code is ready!
 */
+
+/*
+	Addition fixed ..
+*/
