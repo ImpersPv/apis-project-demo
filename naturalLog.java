@@ -1,0 +1,3 @@
+/*
+	Natural LOG JAVA
+*/
